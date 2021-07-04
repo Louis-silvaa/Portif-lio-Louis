@@ -1,0 +1,8 @@
+#Navbar, #Sobre .card-body, #Contato .card-header{
+    background-color: #740031 !important; 
+}
+
+#Sobre, #Contato .card-header{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: #faf9f3;
+}
